@@ -1,6 +1,6 @@
-## Zeppelin
+# Zeppelin
 
-# Zeppelin mac 安装步骤：
+## Zeppelin mac 安装步骤：
 1.官网下载二进制文件进行安装，zeppelin-0.8.1-bin-all.tgz, 
 下载链接https://zeppelin.apache.org/download.html
 
@@ -16,7 +16,7 @@
 
 3.Check out the Zeppelin web notebook at http://localhost:8080
 
-# Zeppelin 如何使用
+## Zeppelin 如何使用
 
 1.创建新的notebook
 
@@ -24,3 +24,7 @@
 
 3.编写spark代码，创建临时表createOrReplaceTempView，然后用 spark sql 可视化
 
+
+## Zeppelin use case
+
+https://www.zepl.com/viewer/notebooks/bm90ZTovL2lhbmRvdy8zNmNjMmU1ODJkNGQ0ZWRmYjg5MzI4MzUzYTBjNmViYi9ub3RlLmpzb24
